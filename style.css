@@ -6,3 +6,39 @@
   body{
     background:#6592CF;
   }
+
+    
+    div:nth-child(1){
+      background:#060F55;
+      
+    }
+    div:nth-child(2){
+      background:#060F55;
+    }
+    div:nth-child(3){
+      background:#060F55;
+    }
+    div:nth-child(4){
+      background:#060F55;
+    }
+    div:nth-child(5){
+      background:#060F55;
+    }
+    div:nth-child(6){
+      background:#060F55;
+    }
+   
+    
+    
+    
+    
+       div:nth-child(7){
+      background:#6592CF;
+    }
+    div:nth-child(8){
+      background:#6592CF;
+    }
+    div:nth-child(9){
+      background:#6592CF;
+    }
+   
