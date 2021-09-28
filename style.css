@@ -9,8 +9,9 @@
 
     
     div:nth-child(1){
+      width:20px;
+      height:150px;
       background:#060F55;
-      
     }
     div:nth-child(2){
       background:#060F55;
